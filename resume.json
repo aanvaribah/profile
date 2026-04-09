@@ -1,0 +1,340 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alex A. Anvari",
+    "label": "Enterprise Security Architect | PhD Student in Systems Engineering and Operations Research",
+    "email": "Alex@Anvari.net",
+    "url": "https://github.com/aanvaribah",
+    "summary": "Cybersecurity and systems engineering leader with nearly two decades of experience across the U.S. Federal Government. I've architected enterprise security for millions of endpoints, led teams of 200+ engineers on billion-dollar programs, and stayed hands-on through all of it. Currently pursuing a PhD in Systems Engineering at George Mason University, researching causal AI frameworks for cyber defense implementation, built on 10+ years of operational CDM experience at DHS CISA.",
+    "location": {
+      "city": "Arlington",
+      "region": "Virginia",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alexaanvari",
+        "url": "https://www.linkedin.com/in/alexaanvari"
+      },
+      {
+        "network": "GitHub",
+        "username": "aanvaribah",
+        "url": "https://github.com/aanvaribah"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "z85zpSYAAAAJ",
+        "url": "https://scholar.google.com/citations?user=z85zpSYAAAAJ"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Booz Allen Hamilton",
+      "location": "McLean, VA",
+      "position": "Enterprise Security Architect",
+      "startDate": "2025-10",
+      "summary": "Supporting the Booz Allen CISO on product security. Developing, implementing, and operationalizing enterprise security checks for all Booz Allen products and technical offerings. Evaluating products against FedRAMP, CMMC, Secure Software Development Framework (SSDF), and Secure-by-Design baselines, working directly with R&D teams and application owners to harden new offerings before market release. Building AI-augmented workflows using coding assistants (Cursor, Windsurf) to accelerate security assessment and compliance documentation across product teams. Led the security review and hardening that launched Booz Allen's first commercial product offering. Serving as primary liaison to George Mason University's Systems Engineering and Operations Research department for a Booz Allen-sponsored Masters Capstone project."
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "location": "McLean, VA",
+      "position": "Lead Systems Integration Manager",
+      "startDate": "2022-10",
+      "endDate": "2025-09",
+      "summary": "Lead engineer and contract key personnel on the DHS CISA Continuous Diagnostics and Mitigation (CDM) program. Executive leadership and direct supervision of a 150+ person engineering organization spanning enterprise architecture, cybersecurity operations, systems integration, software development, information assurance, and training. Oversaw the design, build, staffing, cost management, and operations of CDM capabilities and cross-agency data integration at five CFO-Act agencies (GSA, SSA, Treasury, HHS, NASA). Achieved 0.05% variance on the annual engineering budget. Developed an Asset Management Maturity Model combining Data Quality Management Plans (DQMP), BOD 22-01 Known Exploited Vulnerability (KEV) remediation tracking, and BOD 23-01 network visibility strategies for continuous monitoring. Contributed to bid and proposal efforts for next-generation CDM solicitation cycles. Managed engineering continuity through a major budget drawdown and subsequent spending surge, maintaining delivery across all agency accounts."
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "location": "McLean, VA",
+      "position": "Task Order Architecture Lead",
+      "startDate": "2020-01",
+      "endDate": "2022-09",
+      "summary": "Led cyber architecture for a 250+ person engineering task order covering six CFO-Act agencies (OPM, DOI, DOT, DOE, USDA, VA) with a combined footprint of 2.6 million endpoints, 982,000 users, and 15,600 sites. Direct supervision of 21 engineers across information assurance, solution architecture, and systems engineering, with indirect oversight of 50+ additional engineers. Redesigned data normalization and ETL processes for CDM data integration, achieving 60% licensing cost savings. Spearheaded the largest test event in CDM history, an Elastic-based CDM Dashboard ecosystem evaluation spanning asset management and identity/access management capabilities across multiple knowledge areas and tool layers, scoring 99% IV&V requirement satisfaction. Personally owned requirements and test case quality, adjudicated all client feedback, and served as primary technical resource throughout execution. Delivered an expanded Test Summary Report that set a new standard for that deliverable. Led deep-dive vulnerability and patch management response efforts after SolarWinds, Log4Shell, and BOD 22-01. Deployed Splunk and Elastic (Docker, AWS) for large-scale CDM solution testing environments. Created a technical learning series for a 200+ person engineering audience. Managed engineering continuity through a 200-person drawdown after the 2020 election budget disruption, then rebuilt capacity during the 2022 spending surge."
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "location": "McLean, VA",
+      "position": "Cyber Solution Architect",
+      "startDate": "2018-08",
+      "endDate": "2019-12",
+      "summary": "Led CDM solution architecture at OPM, OMB MAX, DOT, and FAA. Developed an automated 'Ongoing' Assessment and Authorization proof of concept for continuous NIST 800-53 security control evaluation, replacing periodic manual assessments with automated control checks. Founding member of the CDM Tech Scouting initiative, a vendor research and proof-of-concept program that evaluated emerging security products (CrowdStrike, Palo Alto, Elastic, AppGuard, and others) against CDM capability requirements for potential integration across federal agencies. Personally led vendor evaluations and attended industry events (BlackHat/DefCon) for technology scouting. Lead architect for OPM enterprise-wide asset management modernization: deployed BigFix for endpoint management, Forescout for network access control, Gigamon for network tap infrastructure and traffic visibility, and Tenable for vulnerability management, all while managing a parallel data center consolidation effort. Developed CONOPS documentation for agency CDM implementations. Handled a critical high-visibility data recovery project at MAX.gov when the agency was removing BigFix and required replacement data would have been lost, navigating unfamiliar documentation and client relationships as a newer employee to deliver the needed data."
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "location": "Arlington, VA",
+      "position": "System Security Lead",
+      "startDate": "2017-12",
+      "endDate": "2018-08",
+      "summary": "Information System Security Officer for the Army's Planning, Programming and Budgeting Business Operating System (PPB BOS) under the Department of the Army, Deputy Chief of Staff, G-8, Program Analysis and Evaluation. Managed security across three environments: OSD/JSP on-premises, Army AWS Cloud, and the classified SIPR network. Led the Risk Management Framework and FedRAMP authorization efforts for the system's migration from on-premises to AWS Cloud, achieving the system's first AWS-hosted Authority to Operate. Administered ACAS Tenable vulnerability scanning and HBSS McAfee ePO endpoint security for AWS Cloud deployments. Integrated scan results and security posture data with DISA's continuous monitoring Splunk dashboards."
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "location": "Arlington, VA",
+      "position": "Technical Lead & Project Manager",
+      "startDate": "2016-06",
+      "endDate": "2017-11",
+      "summary": "Technical lead and project manager for an 8-person CDM deployment team at the Department of Justice under CDM Task Order 2C. Served as the primary liaison between DHS, Northrop Grumman, and DOJ, coordinating CDM tool deployment across all 20 DOJ bureaus. Oversaw technical deployment of BigFix for endpoint management and Tenable for vulnerability scanning across the DOJ enterprise. Led Risk Management Framework activities and drove the RSA Archer dashboard through the ATO process. Managed CDM pre-implementation checklists, agency dashboard design, and cross-bureau coordination for a geographically distributed deployment."
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "location": "Arlington, VA",
+      "position": "Information System Security Officer (ISSO)",
+      "startDate": "2014-03",
+      "endDate": "2016-06",
+      "summary": "Information System Security Officer contracted to DHS Federal Network Resilience (FNR) and DOJ ATF. Led Risk Management Framework activities for the two largest umbrella General Support Systems at ATF, fully re-assessing all NIST 800-53 rev4 security controls and achieving new 3-year Authorities to Operate for both systems. Managed RMF for a dozen additional major application systems on sustained annual assessment timelines. Led remediation of a critical air-gapped FISMA system shared with the Government of Canada, dealing with legacy operating systems and analog munitions scanning equipment. Drove the enterprise-wide Windows 10 rollout security effort including DISA STIG compliance evaluation, executive authorization coordination, and continuous monitoring integration. Analyzed production CDM data to build automation and scoring methodologies, including automated Common Platform Enumeration (CPE) normalization routines and contributions to the Federal and Agency CDM Dashboard. Managed Agile/Scrum sprints for CDM Dashboard proof-of-concept efforts. Published ATF's first enterprise-wide Bluetooth protocol policy, establishing wireless security standards where none previously existed."
+    },
+    {
+      "name": "Haystax Technology",
+      "location": "Vienna, VA",
+      "position": "Risk Analyst",
+      "startDate": "2013-05",
+      "endDate": "2014-03",
+      "summary": "Supported local law enforcement and government entities in natural hazard and terrorism risk management. Designed and developed a SQL database with a front-end application for tracking and geospatial monitoring of hazard and flood data aligned with FEMA's National Flood Insurance Program (NFIP). Conducted Threat and Hazard Identification and Risk Assessments (THIRAs) and Stakeholder Preparedness Reviews (SPRs) for Tier 1 Urban Area Security Initiative (UASI) zones. Developed a proprietary risk assessment methodology that incorporated economic impact factors and population density into risk scoring, going beyond standard approaches to provide more actionable prioritization for resource allocation."
+    },
+    {
+      "name": "DMI",
+      "location": "Arlington, VA",
+      "position": "Business Analyst",
+      "startDate": "2012-04",
+      "endDate": "2013-05",
+      "summary": "Requirements analyst and customer liaison contracted to the Department of State, Consular Affairs Bureau. Led requirements engineering for the modernization of the Foreign Affairs Manual (FAM) through a SharePoint portal with Microsoft FAST enterprise search integration. Developed requirements documents, development tasks, and test cases using the IBM Rational Suite (RequisitePro, ClearCase, ClearQuest). Served as the primary interface between the development team and State Department stakeholders, translating business needs into technical requirements for the portal migration."
+    },
+    {
+      "name": "CACI International",
+      "location": "Arlington, VA",
+      "position": "Requirements Analyst",
+      "startDate": "2011-10",
+      "endDate": "2012-04",
+      "summary": "Requirements analyst contracted to the DOJ Drug Enforcement Administration (DEA). Worked in an Agile/Scrum development environment modernizing the Concorde application suite, a mission-critical toolset used by DEA special agents in the field. Analyzed drug and money data in support of developing a law enforcement reporting system. Developed requirements, development tasks, test cases, and reporting dashboards using Microsoft Team Foundation Server (TFS) and Business Intelligence Development Studio (BIDS)."
+    },
+    {
+      "name": "CACI International",
+      "location": "Arlington, VA",
+      "position": "Information Assurance Systems Analyst",
+      "startDate": "2009-10",
+      "endDate": "2011-10",
+      "summary": "Information assurance analyst contracted to the Department of State, Information Resource Management (IRM) Bureau. In an era before modern GRC tool proliferation, managed the State Department's entire FISMA system inventory, enforcing the Department's ITSM strategy and ensuring all systems met agency reporting requirements and assessment timelines. Executed the rollout of iPost cybersecurity scorecards across State Department bureaus, providing standardized security posture visibility. Supervised the enterprise-wide rollout of the Tips of the Day security awareness program from proof of concept through pilot phases to full deployment, integrating all results with IRM databases. Developed and maintained complex VB/Excel forms including the Systems Categorization Form used by all offices within the Department of State to track and analyze adherence to information assurance standards. Built custom tools in VBA and SQL to enhance the Certification and Accreditation process, including POA&M findings management, system categorization, and testing automation. Additional development work in MS Access, Oracle, HTML, and SharePoint."
+    },
+    {
+      "name": "Office of the Deputy Assistant Secretary of the Army",
+      "location": "Pentagon, VA",
+      "position": "Operations Research Analyst, Cost and Economics",
+      "startDate": "2007-04",
+      "endDate": "2009-01",
+      "summary": "Operations research analyst in the Cost and Economics division supporting the Deputy Assistant Secretary of the Army for Cost and Economics (ODASA-CE) at the Pentagon. Analyzed weapon system acquisition unit costs for major programs including Future Combat Systems and Ground Combat Systems using the Army FORCES Cost Model. Prepared mathematical and statistical economic analysis models for the unit costing, installation costing, and personnel costing divisions, providing direct technical support for decision analysis across multiple departments. Developed an automated VB tool for allocating performance awards between base pay increases and bonuses, used to align employee compensation with market conditions based on management rating distributions. Built an Access and SQL computational tool for personnel rating analysis by ratings, awards, and demographics. Developed a Military Medical Retirement cost impact estimation tool for analyzing policy alternatives. This was a part-time civilian position (GS-equivalent YP-1599-1) held concurrently with undergraduate studies at George Mason University."
+    }
+  ],
+  "education": [
+    {
+      "institution": "George Mason University",
+      "area": "Systems Engineering & Operations Research",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2025-01",
+      "courses": [
+        "Applied Predictive Analytics",
+        "Risk, Safety, Reliability",
+        "Dynamic Programming",
+        "Research Methods in Systems Engineering",
+        "Financial Systems Engineering"
+      ]
+    },
+    {
+      "institution": "George Mason University",
+      "area": "Systems Engineering, C4I Concentration",
+      "studyType": "Master of Science",
+      "startDate": "2013-01",
+      "endDate": "2016-05",
+      "courses": [
+        "Architecture-Based Systems Engineering",
+        "Principles of C4I",
+        "Heterogeneous Data Fusion",
+        "Judgment/Choice Processes & Decision",
+        "Discrete Event Systems"
+      ]
+    },
+    {
+      "institution": "George Mason University",
+      "area": "Systems Engineering, Control Systems Concentration",
+      "studyType": "Bachelor of Science",
+      "startDate": "2005-08",
+      "endDate": "2009-05"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "issuer": "(ISC)²",
+      "date": "2017-01"
+    },
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2024-11"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner (expired)",
+      "issuer": "Amazon Web Services"
+    },
+    {
+      "name": "DHS Cybersecurity Service, Risk Management and Compliance Technical Professional (expired)",
+      "issuer": "Department of Homeland Security"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Values-in-Practice (VIP) Award",
+      "awarder": "Booz Allen Hamilton",
+      "summary": "Firm's most prestigious individual award for exemplifying core values, reflecting leadership and impact beyond performance."
+    },
+    {
+      "title": "Platinum Award, RTM Rewrite",
+      "date": "2020-09",
+      "awarder": "Booz Allen Hamilton",
+      "summary": "Personally rewrote entire Requirements Traceability Matrix on short timeline, delivering government-acceptable document. Recognized for integrity and speaking truth."
+    },
+    {
+      "title": "Gold Award, Largest CDM Test Event",
+      "date": "2020-12",
+      "awarder": "Booz Allen Hamilton",
+      "summary": "Led the largest test event in CDM history, scoring 99% IV&V requirement satisfaction for asset management and identity/access management capabilities. Personally owned requirements and test case quality, adjudicated client feedback, and served as primary technical resource during execution."
+    },
+    {
+      "title": "IEEE Best Paper/Presentation Award",
+      "date": "2009-03",
+      "awarder": "Booz Allen Hamilton / IEEE SIEDS",
+      "summary": "Environmental and Economic Systems Best Paper/Presentation at the IEEE Systems and Information Engineering Design Symposium at University of Virginia for senior design project on automated water quality monitoring."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Designing an Automated Water Quality Monitoring System for West and Rhode Rivers",
+      "publisher": "IEEE",
+      "releaseDate": "2009-04",
+      "url": "https://doi.org/10.1109/SIEDS.2009.5166167",
+      "summary": "Designed an automated water quality monitoring system to replace manual volunteer-based sampling on the West and Rhode Rivers in Maryland. The system increased sampling frequency from weekly to every 15 minutes and expanded coverage from 4 to 16 water quality parameters using wireless sensor networks with automated anomaly detection. Applied systems engineering methods including value hierarchy analysis, multi-attribute trade studies, and functional decomposition. 25 citations in academic literature. Won the Booz Allen Hamilton Environmental and Economic Systems Best Paper/Presentation Award at IEEE SIEDS 2009."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cybersecurity & Risk Management",
+      "keywords": [
+        "Enterprise Security Architecture",
+        "Risk Management Framework (RMF)",
+        "NIST 800-53",
+        "FedRAMP",
+        "CMMC",
+        "FISMA",
+        "Zero Trust Architecture",
+        "Vulnerability Management",
+        "Assessment & Authorization",
+        "Secure-by-Design",
+        "SSDF"
+      ]
+    },
+    {
+      "name": "Security Tools & Platforms",
+      "keywords": [
+        "AWS Security Stack",
+        "BigFix",
+        "CSAM",
+        "Elastic/ELK",
+        "eMASS",
+        "Forescout",
+        "Gigamon",
+        "Splunk",
+        "Tenable"
+      ]
+    },
+    {
+      "name": "Systems Engineering",
+      "keywords": [
+        "TOGAF",
+        "ITIL",
+        "COBIT",
+        "Requirements Traceability",
+        "IV&V Testing",
+        "CONOPS Development"
+      ]
+    },
+    {
+      "name": "Programming & Data",
+      "keywords": [
+        "SQL",
+        "Python",
+        "VBA",
+        "ETL Processes",
+        "Data Normalization",
+        "CPE Normalization"
+      ]
+    },
+    {
+      "name": "Leadership & Management",
+      "keywords": [
+        "Executive Team Leadership (200+ engineers)",
+        "Program Management",
+        "Budget Management",
+        "Federal Procurement",
+        "Stakeholder Engagement",
+        "Agile/Scrum"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Path of Exile (6x Level 100)",
+        "Strategy Games (Civilization, Total War)",
+        "MagFest 2015 Warcraft III Champion",
+        "CRPGs (Baldur's Gate, Dragon Age)"
+      ]
+    },
+    {
+      "name": "Systems Thinking in Games",
+      "keywords": [
+        "Published academic analysis of MMO raid teams as systems engineering projects",
+        "Optimization and build theory",
+        "Competitive multiplayer strategy"
+      ]
+    },
+    {
+      "name": "Personal Knowledge Engineering",
+      "keywords": [
+        "AI-assisted second brain systems",
+        "Automation and structured data pipelines",
+        "Building productivity tooling with coding assistants"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "International home exchange (swapping homes with families abroad)",
+        "Immersive travel over tourism"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Arlington Mill Civic Association",
+      "position": "Former Vice President",
+      "summary": "Community leadership and civic engagement in Arlington, Virginia."
+    },
+    {
+      "organization": "Arlington County",
+      "position": "Teenager Foster Parent",
+      "summary": "Providing foster care for teenagers in Arlington County."
+    },
+    {
+      "organization": "Animal Welfare League of Arlington (AWLA)",
+      "position": "Foster Parent",
+      "summary": "Fostering animals through AWLA's foster care program."
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/aanvaribah/profile/main/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2026-04-09"
+  }
+}
