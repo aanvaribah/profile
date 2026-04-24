@@ -182,6 +182,14 @@
       "issuer": "Department of Homeland Security"
     }
   ],
+  "memberships": [
+    {
+      "organization": "Military Operations Research Society (MORS)",
+      "membershipType": "Student Member",
+      "startDate": "2026-04",
+      "url": "https://www.mors.org/"
+    }
+  ],
   "awards": [
     {
       "title": "Values-in-Practice (VIP) Award",
@@ -335,6 +343,6 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/aanvaribah/profile/main/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2026-04-09"
+    "lastModified": "2026-04-20"
   }
 }
