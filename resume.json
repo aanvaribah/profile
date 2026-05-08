@@ -197,22 +197,28 @@
       "summary": "Firm's most prestigious individual award for exemplifying core values, reflecting leadership and impact beyond performance."
     },
     {
-      "title": "Platinum Award, RTM Rewrite",
-      "date": "2020-09",
-      "awarder": "Booz Allen Hamilton",
-      "summary": "Personally rewrote entire Requirements Traceability Matrix on short timeline, delivering government-acceptable document. Recognized for integrity and speaking truth."
+      "title": "Andrew G. Loerch Endowed Memorial Fund Research Scholarship",
+      "date": "2026-02",
+      "awarder": "George Mason University",
+      "summary": "Research scholarship from GMU's College of Engineering and Computing."
     },
     {
-      "title": "Gold Award, Largest CDM Test Event",
+      "title": "Largest Test Event in CDM History",
       "date": "2020-12",
-      "awarder": "Booz Allen Hamilton",
-      "summary": "Led the largest test event in CDM history, scoring 99% IV&V requirement satisfaction for asset management and identity/access management capabilities. Personally owned requirements and test case quality, adjudicated client feedback, and served as primary technical resource during execution."
+      "awarder": "DHS CISA / Booz Allen Hamilton",
+      "summary": "Spearheaded the largest test event in CDM history, 99% IV&V requirement satisfaction for Asset Management and Identity and Access Management capabilities integrated with the Elastic-based CDM Dashboard."
     },
     {
       "title": "IEEE Best Paper/Presentation Award",
       "date": "2009-03",
       "awarder": "Booz Allen Hamilton / IEEE SIEDS",
       "summary": "Environmental and Economic Systems Best Paper/Presentation at the IEEE Systems and Information Engineering Design Symposium at University of Virginia for senior design project on automated water quality monitoring."
+    },
+    {
+      "title": "2nd Place, Equity in Gov't Services Hackathon",
+      "date": "2023-11",
+      "awarder": "Booz Allen Hamilton",
+      "summary": "Team Lead for 'Burdens to Access in Government Services' at Booz Allen's two-day hackathon at The Helix in Washington, DC. Led a cross-functional team of BAH employees and university students competing on equity challenges in government service delivery."
     }
   ],
   "publications": [
@@ -293,9 +299,10 @@
     {
       "name": "Gaming",
       "keywords": [
-        "Path of Exile (6x Level 100)",
-        "Strategy Games (Civilization, Total War)",
         "MagFest 2015 Warcraft III Champion",
+        "Two-time World Champion, Dark and Shattered Lands (competitive MUD)",
+        "ARPGs (Path of Exile, Diablo 2)",
+        "Strategy Games (Civilization, Total War)",
         "CRPGs (Baldur's Gate, Dragon Age)"
       ]
     },
@@ -343,6 +350,6 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/aanvaribah/profile/main/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2026-04-20"
+    "lastModified": "2026-05-08"
   }
 }

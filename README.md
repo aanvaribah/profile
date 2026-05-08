@@ -56,18 +56,19 @@ Built my foundation across risk analysis, requirements engineering, information 
 ## Selected Achievements
 
 - **Values-in-Practice (VIP) Award**, Booz Allen Hamilton's most prestigious individual recognition
-- **Platinum Award**, personally rewrote an entire Requirements Traceability Matrix on a compressed timeline, recognized for integrity and quality
-- **Gold Award**, led the largest test event in CDM history (99% IV&V requirement satisfaction)
+- **Andrew G. Loerch Endowed Memorial Fund Research Scholarship** (2026), George Mason University
+- Spearheaded the largest test event in CDM history, 99% IV&V requirement satisfaction for Asset Management and IAM capabilities
+- **2nd Place, Booz Allen Equity in Gov't Services Hackathon** (2023), team lead at The Helix, Washington DC
 - **IEEE Best Paper/Presentation**, Systems and Information Engineering Design Symposium at UVA for automated water quality monitoring system (published: [DOI 10.1109/SIEDS.2009.5166167](https://doi.org/10.1109/SIEDS.2009.5166167))
 
 
 ## Beyond Work
 
-I'm a lifelong gamer who treats games the way I treat systems: as complex problems worth mastering. I have six characters at the level cap in Path of Exile, won the Warcraft III tournament at MagFest 2015, and once wrote an academic paper analyzing World of Warcraft raid teams through a systems engineering lens. My go-to genres include ARPGs (Path of Exile, Diablo 2), strategy (Civilization, Total War), and CRPGs (Baldur's Gate, Dragon Age).
+I won the Warcraft III tournament at MagFest 2015 and I'm a two-time world champion in Dark and Shattered Lands, a competitive text-based MUD. I once wrote an academic paper analyzing World of Warcraft raid teams through a systems engineering lens. My go-to genres include ARPGs (Path of Exile, Diablo 2), strategy (Civilization, Total War), and CRPGs (Baldur's Gate, Dragon Age).
 
 I build AI-assisted personal knowledge systems and productivity tooling. My wife and I travel internationally through home exchange, swapping houses with families abroad for a more immersive way to see new places.
 
-I also serve my community as a former Vice President of the Arlington Mill Civic Association, a teenager foster parent in Arlington County, and a foster parent with the Animal Welfare League of Arlington.
+I also serve my community as a kitten foster parent with the Animal Welfare League of Arlington, a teenager foster parent in Arlington County, and a former Vice President of the Arlington Mill Civic Association.
 
 ## Contact
 
