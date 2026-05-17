@@ -188,6 +188,12 @@
       "membershipType": "Student Member",
       "startDate": "2026-04",
       "url": "https://www.mors.org/"
+    },
+    {
+      "organization": "ISC2",
+      "membershipType": "Member",
+      "startDate": "2017-09",
+      "url": "https://www.isc2.org/"
     }
   ],
   "awards": [
