@@ -35,7 +35,7 @@
       "location": "McLean, VA",
       "position": "Enterprise Security Architect",
       "startDate": "2025-10",
-      "summary": "Supporting the Booz Allen CISO on product security. Developing, implementing, and operationalizing enterprise security checks for all Booz Allen products and technical offerings. Evaluating products against FedRAMP, CMMC, Secure Software Development Framework (SSDF), and Secure-by-Design baselines, working directly with R&D teams and application owners to harden new offerings before market release. Building AI-augmented workflows using coding assistants (Cursor, Windsurf) to accelerate security assessment and compliance documentation across product teams. Led the security review and hardening that launched Booz Allen's first commercial product offering. Serving as primary liaison to George Mason University's Systems Engineering and Operations Research department for a Booz Allen-sponsored Masters Capstone project."
+      "summary": "Supporting the Booz Allen CISO on product security. Developing, implementing, and operationalizing enterprise security checks for Booz Allen products and technical offerings. Evaluating products against FedRAMP, CMMC, Secure Software Development Framework (SSDF), and Secure-by-Design baselines, working directly with R&D teams and application owners to harden new offerings before market release. Led the security review and hardening that launched Booz Allen's first commercial product offering. Lead operator for Project Glasswing (Anthropic Claude Mythos) and Project Daybreak (OpenAI / GPT-5.5 Cyber), including an automated agentic static-code vulnerability remediation workflow that creates patches, packages pull requests, addresses CI/CD checks, incorporates developer feedback, and remediated 80% of Project Glasswing vulnerability findings. Developed an AI-enabled ATO Package agent-swarm validation engine for IL5 and FedRAMP High, used successfully for Booz Allen's first-ever PaaS product offering. Serving as Booz Allen sponsor and liaison to GMU's SEOR department for the sponsored Masters Capstone project, Secure Change Control of Infrastructure-as-Code (IaC) for Rapid Application Prototyping."
     },
     {
       "name": "Booz Allen Hamilton",
@@ -51,7 +51,7 @@
       "position": "Task Order Architecture Lead",
       "startDate": "2020-01",
       "endDate": "2022-09",
-      "summary": "Led cyber architecture for a 250+ person engineering task order covering six CFO-Act agencies (OPM, DOI, DOT, DOE, USDA, VA) with a combined footprint of 2.6 million endpoints, 982,000 users, and 15,600 sites. Direct supervision of 21 engineers across information assurance, solution architecture, and systems engineering, with indirect oversight of 50+ additional engineers. Redesigned data normalization and ETL processes for CDM data integration, achieving 60% licensing cost savings. Spearheaded the largest test event in CDM history, an Elastic-based CDM Dashboard ecosystem evaluation spanning asset management and identity/access management capabilities across multiple knowledge areas and tool layers, scoring 99% IV&V requirement satisfaction. Personally owned requirements and test case quality, adjudicated all client feedback, and served as primary technical resource throughout execution. Delivered an expanded Test Summary Report that set a new standard for that deliverable. Led deep-dive vulnerability and patch management response efforts after SolarWinds, Log4Shell, and BOD 22-01. Deployed Splunk and Elastic (Docker, AWS) for large-scale CDM solution testing environments. Created a technical learning series for a 200+ person engineering audience. Managed engineering continuity through a 200-person drawdown after the 2020 election budget disruption, then rebuilt capacity during the 2022 spending surge."
+      "summary": "Led cyber architecture for a 250+ person engineering task order covering six CFO-Act agencies (OPM, DOI, DOT, DOE, USDA, VA) with a combined footprint of 2.6 million endpoints, 982,000 users, and 15,600 sites. Direct supervision of 21 engineers across information assurance, solution architecture, and systems engineering, with indirect oversight of 50+ additional engineers. Redesigned data normalization and ETL processes for CDM data integration, achieving 60% licensing cost savings. Spearheaded CDM's largest IV&V test event, an Elastic-based CDM Dashboard evaluation spanning asset management and identity/access management capabilities across multiple knowledge areas and tool layers, scoring 99% requirement satisfaction. Personally owned requirements and test case quality, adjudicated all client feedback, and served as primary technical resource throughout execution. Delivered an expanded Test Summary Report that set a new standard for that deliverable. Led deep-dive vulnerability and patch management response efforts after SolarWinds, Log4Shell, and BOD 22-01. Deployed Splunk and Elastic (Docker, AWS) for large-scale CDM solution testing environments. Created a technical learning series for a 200+ person engineering audience. Managed engineering continuity through a 200-person drawdown after the 2020 election budget disruption, then rebuilt capacity during the 2022 spending surge."
     },
     {
       "name": "Booz Allen Hamilton",
@@ -59,7 +59,7 @@
       "position": "Cyber Solution Architect",
       "startDate": "2018-08",
       "endDate": "2019-12",
-      "summary": "Led CDM solution architecture at OPM, OMB MAX, DOT, and FAA. Developed an automated 'Ongoing' Assessment and Authorization proof of concept for continuous NIST 800-53 security control evaluation, replacing periodic manual assessments with automated control checks. Founding member of the CDM Tech Scouting initiative, a vendor research and proof-of-concept program that evaluated emerging security products (CrowdStrike, Palo Alto, Elastic, AppGuard, and others) against CDM capability requirements for potential integration across federal agencies. Personally led vendor evaluations and attended industry events (BlackHat/DefCon) for technology scouting. Lead architect for OPM enterprise-wide asset management modernization: deployed BigFix for endpoint management, Forescout for network access control, Gigamon for network tap infrastructure and traffic visibility, and Tenable for vulnerability management, all while managing a parallel data center consolidation effort. Developed CONOPS documentation for agency CDM implementations. Handled a critical high-visibility data recovery project at MAX.gov when the agency was removing BigFix and required replacement data would have been lost, navigating unfamiliar documentation and client relationships as a newer employee to deliver the needed data."
+      "summary": "Led CDM solution architecture at OPM, OMB MAX, DOT, and FAA. Developed an automated 'Ongoing' Assessment and Authorization proof of concept for continuous NIST 800-53 security control evaluation, replacing periodic manual assessments with automated control checks. Founding member of the CDM Tech Scouting initiative, a vendor research and proof-of-concept program that evaluated emerging security products (CrowdStrike, Palo Alto, Elastic, AppGuard, and others) against CDM capability requirements for potential integration across federal agencies. Personally led vendor evaluations and attended industry events (BlackHat/DefCon) for technology scouting. Lead architect for OPM enterprise-wide asset management modernization: deployed BigFix for endpoint management, Forescout for network access control, Gigamon for network tap infrastructure and traffic visibility, and Tenable for vulnerability management, all while managing a parallel data center consolidation effort. Developed CONOPS documentation for agency CDM implementations. Handled a critical high-visibility data recovery project at MAX.gov when the agency was removing BigFix and required replacement data would have been lost, using unfamiliar documentation and client relationships as a newer employee to deliver the needed data."
     },
     {
       "name": "Northrop Grumman Corporation",
@@ -209,10 +209,10 @@
       "summary": "Research scholarship from GMU's College of Engineering and Computing."
     },
     {
-      "title": "Largest Test Event in CDM History",
+      "title": "CDM Dashboard Validation Event",
       "date": "2020-12",
       "awarder": "DHS CISA / Booz Allen Hamilton",
-      "summary": "Spearheaded the largest test event in CDM history, 99% IV&V requirement satisfaction for Asset Management and Identity and Access Management capabilities integrated with the Elastic-based CDM Dashboard."
+      "summary": "Spearheaded CDM's largest IV&V test event, with 99% requirement satisfaction for Asset Management and Identity and Access Management capabilities integrated with the Elastic-based CDM Dashboard."
     },
     {
       "title": "IEEE Best Paper/Presentation Award",
@@ -249,8 +249,13 @@
         "Zero Trust Architecture",
         "Vulnerability Management",
         "Assessment & Authorization",
+        "ATO Package Validation",
         "Secure-by-Design",
-        "SSDF"
+        "SSDF",
+        "FedRAMP High",
+        "IL5",
+        "Threat-Model-Informed SAST",
+        "Agentic Vulnerability Remediation"
       ]
     },
     {
@@ -283,6 +288,10 @@
       "keywords": [
         "SQL",
         "Python",
+        "Agentic Engineering",
+        "AI Agent Swarms",
+        "Claude Mythos",
+        "GPT-5.5 Cyber",
         "VBA",
         "ETL Processes",
         "Data Normalization",
@@ -338,6 +347,13 @@
   ],
   "volunteer": [
     {
+      "organization": "Virginia Secure and Resilient Commonwealth Panel",
+      "position": "Appointed Member",
+      "startDate": "2026-06",
+      "url": "https://www.governor.virginia.gov/newsroom/news-releases/2026/june-releases/name-1120345-en.html",
+      "summary": "Appointed by Virginia Governor Abigail Spanberger to a Public Safety & Homeland Security panel."
+    },
+    {
       "organization": "Arlington Mill Civic Association",
       "position": "Former Vice President",
       "summary": "Community leadership and civic engagement in Arlington, Virginia."
@@ -350,12 +366,12 @@
     {
       "organization": "Animal Welfare League of Arlington (AWLA)",
       "position": "Foster Parent",
-      "summary": "Fostering animals through AWLA's foster care program."
+      "summary": "Animal foster care through AWLA's foster care program."
     }
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/aanvaribah/profile/main/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2026-05-08"
+    "lastModified": "2026-07-04"
   }
 }
