@@ -57,6 +57,7 @@ Built my foundation across risk analysis, requirements engineering, information 
 
 - **Values-in-Practice (VIP) Award**, Booz Allen Hamilton's most prestigious individual recognition
 - **Andrew G. Loerch Endowed Memorial Fund Research Scholarship** (2026), George Mason University
+- **Dr. H. Gilbert Miller Noblis Endowed Research Scholarship** (2026), George Mason University
 - Appointed by Virginia Governor Abigail Spanberger to the **[Secure and Resilient Commonwealth Panel](https://www.governor.virginia.gov/newsroom/news-releases/2026/june-releases/name-1120345-en.html)** (2026), Public Safety & Homeland Security
 - Built agentic remediation and AI authorization-validation workflows for Booz Allen product security, including the Glasswing 80% remediation outcome
 - Spearheaded CDM's largest IV&V test event, with 99% requirement satisfaction for Asset Management and IAM capabilities
